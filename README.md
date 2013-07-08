@@ -13,7 +13,7 @@ To run the software,
 
 * On `LINUX`
 
-      * First `download` the tool from the repository (Git Clone/Download ZIP)
+      * First `download` this script from the repository (Git Clone/Download ZIP)
       * `cd` to the extracted files directory
       * `run` the following command in the terminal
       
@@ -22,7 +22,7 @@ To run the software,
       ```
 * On `WINDOWS`
       
-      * First `download` the tool from the repository (Git Clone/Download ZIP)
+      * First `download` this script from the repository (Git Clone/Download ZIP)
       * Go to the extracted files directory
       * `run` the script either from command line or by double clicking `pnrly.py` scrit
 
@@ -35,6 +35,9 @@ The script checks the PNR status every 15 minutes (900 seconds). To change it, y
 ``` 
 
 ##Credits
+Author: Naga Rohit S
+Email: snagarohit@gmail.com
+
 This script uses Indian Railways PNR Enquiry Service  & `sendsms` script by [siddhant3s](https://github.com/siddhant3s/sendsms)
 
 ##DISCLAIMER
