@@ -34,8 +34,21 @@ The script checks the PNR status every 15 minutes (900 seconds). To change it, y
   time.sleep(900) #check every 15 minutes
 ``` 
 
-##Credits
-Author: Naga Rohit S (snagarohit@gmail.com)
+##License & Credits
+
+    Copyright (C) 2013  Naga Rohit (snagarohit@gmail.com)
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    For a copy of GNU General Public License see [http://www.gnu.org/licenses/](http://www.gnu.org/licenses/)
 
 This script uses Indian Railways PNR Enquiry Service  & `sendsms` script by [siddhant3s](https://github.com/siddhant3s/sendsms)
 
