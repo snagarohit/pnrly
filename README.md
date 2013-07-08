@@ -48,7 +48,7 @@ The script checks the PNR status every 15 minutes (900 seconds). To change it, y
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
 
-    For a copy of GNU General Public License see [http://www.gnu.org/licenses/](http://www.gnu.org/licenses/)
+    For a copy of GNU General Public License see http://www.gnu.org/licenses/
 
 This script uses Indian Railways PNR Enquiry Service  & `sendsms` script by [siddhant3s](https://github.com/siddhant3s/sendsms)
 
