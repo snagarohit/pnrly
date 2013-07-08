@@ -5,7 +5,7 @@ PNRly
 
 `PNRly` is a script that enables a user to track their Indian Railways' PNR status and update them if their status changes (For example, when a passenger's reservation status changes from `W/L 10` to `W/L 9` or from `W/L 1` to `S4, 30`/`CNF` etc.)
 
-##How ?
+##Requisites ?
 This script requires you to have an account on [FullOnSms.com](http://fullonsms.com). Your system also needs to have [Python 2.7](http://www.python.org/download/releases/2.7.5/) downloaded and installed (If you don't have it already).
 
 ##Working
@@ -35,8 +35,7 @@ The script checks the PNR status every 15 minutes (900 seconds). To change it, y
 ``` 
 
 ##Credits
-Author: Naga Rohit S
-Email: snagarohit@gmail.com
+Author: Naga Rohit S (snagarohit@gmail.com)
 
 This script uses Indian Railways PNR Enquiry Service  & `sendsms` script by [siddhant3s](https://github.com/siddhant3s/sendsms)
 
