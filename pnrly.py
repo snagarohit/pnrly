@@ -84,8 +84,7 @@ while True:
 	if virgin:
 		virgin = False
 		past_status = current_status
-	
-	past_status = 'af'	
+		
 	if past_status!=current_status:
 		while True:
 			try:
