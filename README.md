@@ -21,10 +21,8 @@ To run the software,
       $ python ./pnrly.py
       ```
 * On `WINDOWS`
-      
-      * First `download` this script from the repository (Git Clone/Download ZIP)
-      * Go to the extracted files directory
-      * `run` the script either from command line or by double clicking `pnrly.py` scrit
+     >
+          Pending
 
 
 ##Customization
